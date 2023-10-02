@@ -6,7 +6,7 @@ minimalist PHP framework
 
 in 2017 I started working on social network Kyselo. I didn't liked mainstream PHP frameworks so I used my own hodge-podge framework created of components which I liked. I also developed some of my own components.
 
-Later in 2020 I created two little apps which I wanted to be less hodge-podge. So I created my own microframework but I didn't bother to document it. Now when I created third application I decided to document it properly and clean some code.
+Later in 2020 I created two little apps which I wanted to be less hodge-podge. So I created my own microframework but I didn't bother to document it. Now when I created third application I decided to document it properly and make code a little bit cleaner. I named it Stella because first application made with it was called Stela (with one L) and Stella (with two L) is great album by Swiss band Yello.
 
 ## features
 
@@ -27,10 +27,14 @@ as stated in [this comment from HN](https://news.ycombinator.com/item?id=1672637
 - database component
 - command line argument parser (cligen)
 
-## possible demo application
+## possible demo applications
 
-(not yet implemented)
+(nothing of these is yet implemented)
 
+- pastebin clone but for CSV
+- URL shortener
+- self-hosted Bandcamp clone
+- bug tracker / project managment software
 - forum like it's still 2003
 - wiki
 - simple text-only Discord clone
